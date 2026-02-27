@@ -1,21 +1,48 @@
-## Hi there 👋
+## 🚀 DevOps Engineer | Cloud & Kubernetes Enthusiast
 
-<!--
-**przemekgorzynski/przemekgorzynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in:
+- ☸️ Kubernetes AKS
+- 🔁 CI/CD (GitHub Actions, Azure Devops)
+- 🏗️ Terraform & Infrastructure as Code
+- 🐳 Docker & containerization
+- 📦 Helm & GitOps (Argo CD)
+- 🔐 Cloud security & secrets management
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
 
+**Cloud**
+- Azure
+- Terraform
+- Bicep
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=przemekgorzynski&show_icons=true)
+**CI/CD**
+- GitHub Actions
+- Azure DevOps
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=przemekgorzynski&layout=compact)
+**Containers**
+- Docker
+- Kubernetes
+- Kustomize
+- Helm
+- Argo CD
+
+**Monitoring**
+- Prometheus
+- Grafana
+
+---
+
+## 📈 What I'm Working On
+
+- Improving secure supply chains (SBOM, Trivy scanning)
+- Kubernetes production-grade deployments
+- Automating everything possible 🔥
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (add link)
+- Website: (if any)
