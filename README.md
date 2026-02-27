@@ -34,6 +34,7 @@ I specialize in:
 **Monitoring**
 - Prometheus
 - Grafana
+- Alert Manager
 
 **Programming**
 - Python
