@@ -31,18 +31,3 @@ I specialize in:
 **Monitoring**
 - Prometheus
 - Grafana
-
----
-
-## 📈 What I'm Working On
-
-- Improving secure supply chains (SBOM, Trivy scanning)
-- Kubernetes production-grade deployments
-- Automating everything possible 🔥
-
----
-
-## 📫 Contact
-
-- LinkedIn: (add link)
-- Website: (if any)
