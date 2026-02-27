@@ -1,27 +1,30 @@
 ## 🚀 DevOps Engineer | Cloud & Kubernetes Enthusiast
 
 I specialize in:
-- ☸️ Kubernetes AKS
-- 🔁 CI/CD (GitHub Actions, Azure Devops)
+- ☸️ Kubernetes (AKS)
+- 🔁 CI/CD (GitHub Actions, Azure DevOps)
 - 🏗️ Terraform & Infrastructure as Code
 - 🐳 Docker & containerization
 - 📦 Helm & GitOps (Argo CD)
 - 🔐 Cloud security & secrets management
+- ⚙️ Ansible automation
+- 🐍 Python scripting & tooling
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Cloud**
+**Cloud & IaC**
 - Azure
 - Terraform
 - Bicep
+- Ansible
 
 **CI/CD**
 - GitHub Actions
 - Azure DevOps
 
-**Containers**
+**Containers & GitOps**
 - Docker
 - Kubernetes
 - Kustomize
@@ -31,3 +34,6 @@ I specialize in:
 **Monitoring**
 - Prometheus
 - Grafana
+
+**Programming**
+- Python
